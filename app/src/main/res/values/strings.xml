@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jsontoparsedata</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_id">ID</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_phone">Phone</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_gender">Gender</string>
+    <string name="tv_mobile">Mobile</string>
+    <string name="tv_home">Home</string>
+    <string name="tv_office">Office</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
